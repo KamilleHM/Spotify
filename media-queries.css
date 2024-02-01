@@ -1,0 +1,22 @@
+@media screen and (max-width: 1015px){ 
+   .offer__list-item{
+    grid-template-columns: 1fr 1fr;
+   }
+}
+
+
+
+/* Como foi colocado 2 frações, vai mostrar 2 cards no display */
+
+/* Escolhemos o .offer__list-item pois é ela que carrega o display grid, que é o que esta definindo quantas colunas tem na minha tela*/
+
+/* gris-template-columns fala quantas colunas quer */
+
+/* Código especifico praquela resolução. Largura é o que nos interessa qnd falamos de resolução (largura e altura, mas largura é mais importante). O tamanho da nossa tela e (and) e dentro do parenteces vamos limitar o tamanho da tela, coloca o maximo de tela que eu quero (max-width)
+a estrutura para começar um media querie é essa:
+@media screen  and (max-width: 1015px){
+     Dentro dessa resolução eu quero que aconteça essas coisas
+     faz igual no css 
+} */
+
+/* Tem q linkar o css no html e COLOCAR O ARQUIVO DE MEDIA QUERY LA NO FINAL, dps de declarar os css. Se nao ele carrega o media querry com aquela propriedade e dps vem a sobreescreve ele e ele nao9 funciona mais, entao ele tem q sempre estar por ultimo*/

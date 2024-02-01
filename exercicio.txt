@@ -1,0 +1,32 @@
+Exercício: Adicionar mais itens à navegação lateral
+
+. Adicione mais dois itens à navegação lateral, abaixo dos itens existentes "Início" e "Buscar".
+. Escolha dois ícones da biblioteca "Font Awesome" para representar esses itens. Você pode encontrar os ícones disponíveis em: https://fontawesome.com/icons
+. Dê nomes aos novos itens de acordo com o conteúdo que você deseja adicionar ao seu site.
+. Estilize os novos itens para que eles tenham a mesma aparência dos itens existentes na navegação lateral.
+. Dessa forma, você estará praticando a adição de elementos HTML, o uso de classes e ícones da biblioteca "Font Awesome" e a estilização de elementos CSS.
+
+
+Exercício: Fazer o footer
+
+. Adicionar mais itens à lista de navegação lateral. Você pode criar mais <li> dentro da <ul> e adicionar novos links para diferentes seções do site. 
+. Estilizar esses novos itens de acordo com o seu gosto, utilizando as classes e estilos já definidos no CSS. Dessa forma, você estará praticando a criação de elementos HTML e a estilização com CSS.
+
+
+Exercício: Deixar o código sem repetição
+. Brincar com variáveis
+
+
+Exercício: Colocar mais cards
+. Gerar arquivo json - uma API fake na i.a e praticar busca, conforme for digitando, ele já indicar (json-server --watch api-caminho.json)
+. Um exercício interessante para praticar os conceitos abordados na aula seria criar uma nova seção na página principal do site inspirado no Spotify. Essa seção poderia ser chamada de "Artistas em Destaque" e exibiria cards com informações e imagens de artistas populares.
+
+Para isso, você precisaria:
+
+Adicionar uma nova seção no HTML, abaixo da seção de playlists.
+Estilizar a nova seção utilizando CSS Grid para criar um layout responsivo.
+Utilizar JavaScript para fazer uma requisição à API fake e obter os dados dos artistas.
+Criar uma função para exibir os cards dos artistas na nova seção.
+Dessa forma, você estaria praticando o uso do CSS Grid, media queries e manipulação do DOM com JavaScript. Além disso, estaria expandindo o site e adicionando uma funcionalidade nova.
+
+Lembre-se de utilizar os conceitos aprendidos na aula para criar um layout responsivo e estilizado. Se tiver alguma dúvida ou precisar de ajuda com algum passo específico, é só me perguntar!
